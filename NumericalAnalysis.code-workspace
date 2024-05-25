@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"notebook.output.scrolling": true,
+		"notebook.output.textLineLimit": 15
+	}
+}

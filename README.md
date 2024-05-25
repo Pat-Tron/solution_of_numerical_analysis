@@ -3,3 +3,8 @@
 
 编程习题作答记录
 原书使用`Matlab`作答，这里使用的是个人更喜欢的`Python`。
+
+## Prerequisite modules
+- `matplotlib`
+- `numpy`
+- `scipy`
